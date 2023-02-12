@@ -1,0 +1,14 @@
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project10\HASHIT\HASHIT\bin\Debug\netcoreapp3.1\HASHIT.exe
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project10\HASHIT\HASHIT\bin\Debug\netcoreapp3.1\HASHIT.deps.json
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project10\HASHIT\HASHIT\bin\Debug\netcoreapp3.1\HASHIT.runtimeconfig.json
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project10\HASHIT\HASHIT\bin\Debug\netcoreapp3.1\HASHIT.runtimeconfig.dev.json
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project10\HASHIT\HASHIT\bin\Debug\netcoreapp3.1\HASHIT.dll
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project10\HASHIT\HASHIT\bin\Debug\netcoreapp3.1\HASHIT.pdb
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project10\HASHIT\HASHIT\obj\Debug\netcoreapp3.1\HASHIT.csproj.AssemblyReference.cache
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project10\HASHIT\HASHIT\obj\Debug\netcoreapp3.1\HASHIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project10\HASHIT\HASHIT\obj\Debug\netcoreapp3.1\HASHIT.AssemblyInfoInputs.cache
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project10\HASHIT\HASHIT\obj\Debug\netcoreapp3.1\HASHIT.AssemblyInfo.cs
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project10\HASHIT\HASHIT\obj\Debug\netcoreapp3.1\HASHIT.csproj.CoreCompileInputs.cache
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project10\HASHIT\HASHIT\obj\Debug\netcoreapp3.1\HASHIT.dll
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project10\HASHIT\HASHIT\obj\Debug\netcoreapp3.1\HASHIT.pdb
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project10\HASHIT\HASHIT\obj\Debug\netcoreapp3.1\HASHIT.genruntimeconfig.cache
